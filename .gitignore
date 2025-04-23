@@ -7,3 +7,6 @@
 *.user
 *.suo
 *.pubxml
+
+// vscode settings
+.vscode/*
