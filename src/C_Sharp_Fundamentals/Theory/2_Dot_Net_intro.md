@@ -55,3 +55,50 @@ Although the .NET Framework is designed to be platform-independent, it is primar
 ### 2. Learning Curve
 
 The .NET Framework can be complex and difficult to learn, especially for developers new to programming or accustomed to other programming languages. This can make it challenging to start building applications.
+
+
+## Versions of .NET Framework
+
+### 1. .NET Framework 1.0
+- **Release Date**: February 2002
+- **Key Features**: Introduced the CLR, FCL, and ASP.NET for web development.
+
+### 2. .NET Framework 1.1
+- **Release Date**: April 2003
+- **Key Features**: Improved ASP.NET, mobile device support, and ODBC/.NET data provider.
+
+### 3. .NET Framework 2.0
+- **Release Date**: November 2005
+- **Key Features**: Generics, nullable types, and improved performance.
+
+### 4. .NET Framework 3.0
+- **Release Date**: November 2006
+- **Key Features**: Introduced WPF, WCF, WF, and CardSpace.
+
+### 5. .NET Framework 3.5
+- **Release Date**: November 2007
+- **Key Features**: LINQ, AJAX support in ASP.NET, and additional classes in FCL.
+
+### 6. .NET Framework 4.0
+- **Release Date**: April 2010
+- **Key Features**: Dynamic Language Runtime (DLR), parallel programming, and Entity Framework.
+
+### 7. .NET Framework 4.5
+- **Release Date**: August 2012
+- **Key Features**: Async programming, improved performance, and support for Windows Store apps.
+
+### 8. .NET Framework 4.6
+- **Release Date**: July 2015
+- **Key Features**: Support for HTTP/2, improved cryptography, and JIT compiler enhancements.
+
+### 9. .NET Framework 4.7
+- **Release Date**: April 2017
+- **Key Features**: High DPI support, touch improvements, and performance enhancements.
+
+### 10. .NET Framework 4.8
+- **Release Date**: April 2019
+- **Key Features**: Improved accessibility, JIT enhancements, and support for modern cryptography.
+
+### Transition to .NET Core and .NET 5+
+- **.NET Core**: A cross-platform, open-source successor to the .NET Framework, introduced in 2016.
+- **.NET 5+**: Unified platform combining .NET Core and .NET Framework, starting with .NET 5 in November 2020.
