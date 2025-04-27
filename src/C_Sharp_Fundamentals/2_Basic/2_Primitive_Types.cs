@@ -1,3 +1,4 @@
+
 using System;
 
 namespace C_Sharp_Fundamentals.Basic
@@ -17,6 +18,10 @@ namespace C_Sharp_Fundamentals.Basic
             // 1. Efficiency: Primitive types are lightweight and efficient for computation.
             // 2. Simplicity: They provide a straightforward way to represent basic data.
             // 3. Foundation: They serve as the building blocks for more complex data structures.
+
+            //  if we try to same  large number in a small data type, it will overflow.
+            //which means it will not give the correct value.
+            // for example, if we try to assign a value greater than 255 to a byte variable, it will overflow and give an incorrect value.
 
             // Explanation of each data type:
 

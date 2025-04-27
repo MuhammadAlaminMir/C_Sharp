@@ -1,5 +1,5 @@
-using System;
 
+using System;
 namespace C_Sharp_Fundamentals.Basic
 {
     class Variables
@@ -93,4 +93,4 @@ namespace C_Sharp_Fundamentals.Basic
             Console.WriteLine($"TryParse Success: {success}, Result: {result}");
         }
     }
-}
+} 
