@@ -93,4 +93,4 @@ namespace C_Sharp_Fundamentals.Basic
             Console.WriteLine($"TryParse Success: {success}, Result: {result}");
         }
     }
-} 
+}

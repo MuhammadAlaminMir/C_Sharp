@@ -115,8 +115,6 @@ namespace C_Sharp_Fundamentals.Basic
             }
 
 
-
-
             // 8. switch Expression (C# 8.0+)
             // A more concise way to write switch statements.
             // unlike the traditional switch statement, the switch expression returns a value.

@@ -1,6 +1,23 @@
 # Introduction to .NET Framework
 
+.Net Framework is a technology that supports building and running windows apps and web services.
+
 The .NET Framework is a software development framework created by Microsoft. It provides a runtime environment for executing applications written in C# and other languages. It includes a large class library, known as the Framework Class Library (FCL).
+
+- Provide a consistent, object-oriented programming environment whether object code is stored and - - executed locally, executed locally but web-distributed, or executed remotely.
+
+-  Provide a code-execution environment that:
+
+Minimizes software deployment and versioning conflicts.
+
+Promotes safe execution of code, including code created by an unknown or semi-trusted third party.
+
+Eliminates the performance problems of scripted or interpreted environments.
+
+Make the developer experience consistent across widely varying types of apps, such as Windows-based apps and Web-based apps.
+
+Build all communication on industry standards to ensure that code based on .NET Framework integrates with any other code.
+
 
 The .NET Framework also includes a Common Language Runtime (CLR), which is responsible for executing the code and providing services such as memory management, security, and exception handling. It is designed to be platform-independent.
 
